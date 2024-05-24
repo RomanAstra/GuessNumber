@@ -1,0 +1,16 @@
+﻿{
+  "name": "UI.Infrastructure",
+  "rootNamespace": "",
+  "references": [
+  "GUID:2b2d330c4ecd41baa9cf4eae5f83b3f3"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
